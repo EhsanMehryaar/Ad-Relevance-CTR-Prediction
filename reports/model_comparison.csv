@@ -1,0 +1,6 @@
+model,auc_roc,log_loss,precision_at_1_pct,precision_at_5_pct,precision_at_10_pct,mean_predicted_ctr,observed_ctr,notes
+logistic_regression,0.7557,0.5789,0.8575,0.7140,0.6213,0.4316,0.2500,Strong linear sparse-feature baseline but overpredicts CTR due to class weighting.
+random_forest,0.7226,0.6464,0.7525,0.6700,0.5835,0.4853,0.2500,Weakest tested model on ranking and probability quality.
+xgboost,0.7615,0.4760,0.8775,0.7390,0.6488,0.2488,0.2500,Selected final model due to best log loss and close calibration.
+lightgbm,0.7705,0.5567,0.8825,0.7645,0.6588,0.4306,0.2500,Best ranking metrics but probability estimates are overcalibrated upward.
+neural_network,0.7624,0.4762,0.8525,0.7360,0.6398,0.2334,0.2500,Competitive log loss and AUC but slightly underpredicts CTR.
