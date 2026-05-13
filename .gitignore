@@ -5,22 +5,13 @@ __pycache__/
 
 data/raw/
 data/sample/
-models/*.joblib
-models/*.json
-models/*.csv
-models/**/*.joblib
-models/**/*.json
-models/**/*.csv
+
 streamlit.*.log
 streamlit.server.log
+
 !assets/screenshots/.gitkeep
 !assets/screenshots/README.md
+
 !reports/
 !reports/*.csv
 !reports/*.md
-!models/*.joblib
-!models/*.json
-!models/*.csv
-!models/**/*.joblib
-!models/**/*.json
-!models/**/*.csv
