@@ -1,0 +1,13 @@
+{
+  "auc_roc": 0.8839285714285715,
+  "log_loss": 0.6312627010651308,
+  "precision_at_1_pct": 1.0,
+  "precision_at_5_pct": 1.0,
+  "precision_at_10_pct": 1.0,
+  "precision_at_threshold_0_5": 0.8571428571428571,
+  "mean_predicted_ctr": 0.5112437441577993,
+  "observed_ctr": 0.5833333333333334,
+  "model_key": "random_forest",
+  "train_rows": 192,
+  "test_rows": 48
+}

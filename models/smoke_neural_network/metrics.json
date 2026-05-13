@@ -1,0 +1,13 @@
+{
+  "auc_roc": 0.6589285714285714,
+  "log_loss": 0.6533146694011652,
+  "precision_at_1_pct": 1.0,
+  "precision_at_5_pct": 1.0,
+  "precision_at_10_pct": 0.8,
+  "precision_at_threshold_0_5": 0.6,
+  "mean_predicted_ctr": 0.6471789985175823,
+  "observed_ctr": 0.5833333333333334,
+  "model_key": "neural_network",
+  "train_rows": 192,
+  "test_rows": 48
+}
