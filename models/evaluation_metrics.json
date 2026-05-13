@@ -1,0 +1,10 @@
+{
+  "auc_roc": 0.9247628628916356,
+  "log_loss": 0.3539666307004409,
+  "precision_at_1_pct": 1.0,
+  "precision_at_5_pct": 1.0,
+  "precision_at_10_pct": 1.0,
+  "precision_at_threshold_0_5": 0.8962962962962963,
+  "mean_predicted_ctr": 0.5617399766588355,
+  "observed_ctr": 0.5916666666666667
+}

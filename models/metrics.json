@@ -1,0 +1,13 @@
+{
+  "auc_roc": 0.7615374601485192,
+  "log_loss": 0.47600773002780344,
+  "precision_at_1_pct": 0.8775,
+  "precision_at_5_pct": 0.739,
+  "precision_at_10_pct": 0.64875,
+  "precision_at_threshold_0_5": 0.658887381275441,
+  "mean_predicted_ctr": 0.2488315850496292,
+  "observed_ctr": 0.24995,
+  "model_key": "xgboost",
+  "train_rows": 160000,
+  "test_rows": 40000
+}
